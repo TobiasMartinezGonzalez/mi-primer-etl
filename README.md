@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Mi Primer ETL con Python
 
@@ -23,3 +24,6 @@ python etl.py
 
 ## Autor
 Tobias Martinez Gonzalez - 29/04/2026
+=======
+# mi-primer-etl
+>>>>>>> 84689a2a793da16b8ffa02b44fbcc60092f5d55b
